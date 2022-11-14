@@ -1,7 +1,7 @@
 # vim: set tabstop=4 shiftwidth=4 expandtab softtabstop=4:
 
 # Functions:
-export OAZSSH_VERSION="0.7.2"
+export OAZSSH_VERSION="0.7.3"
 
 # azure ssh via azure bastion
 function oazssh() {
